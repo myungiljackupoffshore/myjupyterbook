@@ -1,16 +1,15 @@
-# Welcome to your Jupyter Book
+# 경선이의 웹사이트
 
-This is a small sample book to give you a feel for how book content is
-structured.
+노트 만드는법
 
 :::{note}
-Here is a note!
+I love you Eunkyung!
 :::
 
-And here is a code block:
+경선 ♥ 은경 forever
 
 ```
-e = mc^2
+사랑해
 ```
 
-Check out the content pages bundled with this sample book to see more.
+끝
